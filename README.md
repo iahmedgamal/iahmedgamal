@@ -9,6 +9,5 @@ I have a good knowledge with (Android - Real time database- hosting -cloud funct
 - 💞️ I’m looking to collaborate on interesting ideas 
 - 📫 How to reach me 👉👉👉👉 https://www.linkedin.com/in/ahmedgamall/
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=iahmedgamal&show_icons=true&theme=transparent&layout-compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iahmedgamal&show_icons=true&theme=transparent&layout=compact&&hide=css)
-
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=iahmedgamal&show_icons=true&theme=transparent&layout=compact&hide=cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iahmedgamal&show_icons=true&theme=transparent&layout=donut&&hide=css,cache_seconds=86400)
