@@ -9,4 +9,3 @@
 </a>
 
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=iahmedgamal&show_icons=true&theme=transparent&layout=compact&hide=cache_seconds=86400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iahmedgamal&show_icons=true&theme=transparent&layout=donut&&hide=css,cache_seconds=86400)
