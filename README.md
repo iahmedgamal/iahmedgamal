@@ -1,11 +1,15 @@
-- 👋 Hi, I’m Ahmed Gamal 
-- I'm a Software Engineer with over 7 years of experience in web and mobile application development.
-- Passionate about transforming great ideas into reality through coding and making a significant impact by solving real-world problems.
-- 💞️ I’m looking to collaborate on interesting ideas 
 
-<h3>Connect with me</h3>
+
+Hey, I’m Ahmed Gamal, I’m a Software Engineer with over seven years of experience building (web - mobile ) applications.
+I like turning ideas into real, usable products and working on projects that actually solve problems.
+
+### Connect with me
+
 <a href="https://www.linkedin.com/in/ahmedgamall/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=iahmedgamal&show_icons=true&theme=transparent&layout=compact&hide=cache_seconds=86400)
+### Learn more about me and my projects
+
+[https://www.ahmad-g-mustafa.com/](https://www.ahmad-g-mustafa.com/)
+
