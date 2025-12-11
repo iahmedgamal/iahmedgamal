@@ -1,15 +1,10 @@
 
+##  Hey, I’m Ahmad Gamal
 
-Hey, I’m Ahmed Gamal, I’m a Software Engineer with over seven years of experience building (web - mobile ) applications.
-I like turning ideas into real, usable products and working on projects that actually solve problems.
+Senior Software Engineer working with **TypeScript, React, Next.js, Astro, Node.js, 
+I build modern web apps end-to-end and focus on shipping products people actually use.
 
-### Connect with me
-
-<a href="https://www.linkedin.com/in/ahmedgamall/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-### Learn more about me and my projects
-
-[https://www.ahmad-g-mustafa.com/](https://www.ahmad-g-mustafa.com/)
+## 🔗 Connect With Me
+**My personal website**
+ [https://www.ahmad-g-mustafa.com/](https://www.ahmad-g-mustafa.com/)
 
