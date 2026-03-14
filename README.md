@@ -6,5 +6,5 @@ I build modern web apps end-to-end and focus on shipping products people actuall
 
 ## 🔗 Connect With Me
 **My personal website**
- [https://www.ahmad-g-mustafa.com/](https://www.ahmad-g-mustafa.com/)
+ [My site](https://shankout.dev/)
 
