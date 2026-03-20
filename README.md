@@ -6,8 +6,10 @@ I build modern web apps end-to-end and focus on shipping products people actuall
 
 ## 🔗 Connect With Me
 **My personal website**
- [My site](https://shankout.dev/)
+ [Personal Website](https://shankout.dev/)
 
 ## Currently working on
-- [Sada Radda ](https://sadaradda.shankout.dev)
+- [Sada Radda ](https://sadaradda.shankout.dev)  A fun street-football multiplayer game inspired by Egyptian streets.
 
+## Shipped apps
+- [Tarbana | Egyptian Wordle](https://tarbana.shankout.dev/) – Play the Arabic version of Wordle tailored for Egyptians.
