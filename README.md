@@ -5,7 +5,6 @@ Senior Software Engineer working with **TypeScript, React, Next.js, Astro and No
 I build modern web apps end-to-end and focus on shipping products people actually use.
 
 ## 🔗 Connect With Me
-**My personal website**
  [Personal Website](https://shankout.dev/)
 
 ## Currently working on
