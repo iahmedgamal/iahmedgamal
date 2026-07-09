@@ -10,10 +10,10 @@ I build modern web apps end-to-end and focus on shipping products people actuall
 ## Currently working on
 - [OSS Starter](https://github.com/iahmedgamal/OSS-starter) Helps beginner devs find their first open-source contribution.
 - [Chef Next Door](https://chef-next-door.com.au) A World of Flavours, Just Next Door
-- [Sada Radda ](https://sadaradda.shankout.dev)  A fun street-football multiplayer game inspired by Egyptian streets.
 
 ## Shipped apps
 - [Tarbana | Egyptian Wordle](https://tarbana.shankout.dev/)  Play the Arabic version of Wordle tailored for Egyptians.
+- [Sada Radda ](https://sadaradda.shankout.dev)  A fun street-football multiplayer game inspired by Egyptian streets.
 
 ## Currently learning 
 - Vue
